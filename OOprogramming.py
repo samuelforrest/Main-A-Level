@@ -6,7 +6,7 @@ class Human:
         self.eyeColour = eyeColour
         self.hairColour = hairColour
 
-    def display_info(self):  # Make sure the method name is correct (case-sensitive)
+    def display_info(self):  # Make sure the method name is correct (case-sensitive) 
         
         return f"Age: {self.age}, Height: {self.height}, Eye Colour: {self.eyeColour}, Hair Colour: {self.hairColour}"
 
